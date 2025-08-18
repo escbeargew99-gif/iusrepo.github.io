@@ -5,6 +5,10 @@ permalink: /faq
 
 # Frequently Asked Questions
 
+**The IUS Project is no longer maintained.  Historical packages can be found in
+the [IUS Vault](https://vault.ius.io/).  The rest of this page has been kept
+for posterity.**
+
 ### Is IUS a Rackspace service or product?
 
 No.  Rackspace is not obligated to provide support of any kind for IUS
@@ -190,11 +194,11 @@ is updated to at least version 2, then check in `/etc/yum.repos.d/` for any
 [announce][announce] repository on GitHub to be notified of changes like this
 in the future.
 
-### Where can I find packages for RHEL 6 and older versions?
+### Where can I find packages for RHEL 7 and older versions?
 
-RHEL 6 has reached end of life and is no longer receiving security patches.
-The IUS packages for RHEL 6 and older are not maintained and should not be
-used. For historical purposes, these packages are available at
+RHEL 7 and older have reached end of life and are no longer receiving security
+patches.  The IUS packages for RHEL 7 and older are not maintained and should
+not be used. For historical purposes, these packages are available at
 [vault.ius.io][vault].
 
 ### Can I become an IUS mirror?

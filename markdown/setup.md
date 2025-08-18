@@ -5,6 +5,10 @@ permalink: /setup
 
 # Setup
 
+**The IUS Project is no longer maintained.  Historical packages can be found in
+the [IUS Vault](https://vault.ius.io/).  The instructions on this page will no
+longer work.**
+
 To enable the IUS repository on your system, install the **ius-release**
 package.  This package contains the IUS repository configuration and public
 package signing keys.  Many IUS packages have dependencies from the

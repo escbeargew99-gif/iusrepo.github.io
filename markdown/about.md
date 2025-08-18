@@ -5,6 +5,10 @@ permalink: /about
 
 # About
 
+**The IUS Project is no longer maintained.  Historical packages can be found in
+the [IUS Vault](https://vault.ius.io/).  The rest of this page has been kept
+for posterity.**
+
 IUS is a yum repository that provides newer versions of select software for
 RHEL and CentOS.  It started as an internal experiment at
 [Rackspace][rackspace] before being transitioned into a community project
